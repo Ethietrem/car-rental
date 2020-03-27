@@ -10,6 +10,8 @@ wykonać program czy nie, jak nie to spowoduje błąd i teraz jest podział
 na błędy związane z flotą oraz inne nie związane - systemowe.
 */
 
+/* git comment test */
+
 public class App {
     public static void main(String[] args) {
         try {
